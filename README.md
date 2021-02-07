@@ -1,6 +1,7 @@
 # IMG-ANAL
 
 <strong>IMG-ANAL est un logiciel d'Analyse d'Image</strong><br><br>
+<br><i>powerded by Pil</i><br>
 
 <h2>FAQ</h2>
 
