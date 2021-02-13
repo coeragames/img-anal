@@ -6,7 +6,7 @@
 <h2>FAQ</h2>
 
 <h5>Comment analyser mon image ?</h5><br>
-<p>Rien de plus simple, au début, nous allons vous demander un lien vers l'image que vous souhaitez traiter. Il suffit de fournir un lien vers une image, et de donner le nom de l'image. <br>
+<p>Rien de plus simple, au début, nous allons vous demander un lien vers l'image que vous souhaitez traiter. Il suffit de fournir un lien vers une image, et de donner le nom de l'image à l'étape suivante. <br>
 Ex: pour https://site.fr/img.jpg donnez img.jpg quand nous vous demandons le nom de l'image</p><br><br>
 
 <h5>D'autres fonctions arriveront ?</h5><br>
