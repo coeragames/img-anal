@@ -1,5 +1,7 @@
 # IMG-ANAL
 
+<i>une update ne ferait pas de mal, peut être bientôt....</i>
+
 <strong>IMG-ANAL est un logiciel d'Analyse d'Image</strong><br><br>
 <br><i>powerded by Pil, wget et os</i><br>
 
